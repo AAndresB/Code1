@@ -1,0 +1,5 @@
+Programa multifunciones
+
+Función 1: Calculadora básica (Suma, resta, multiplicación, división)
+Función 2: Insertar cédula y desplegar los datos de la persona de dicha cédula.
+Función 3: Gestor de contactos.
